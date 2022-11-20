@@ -5,7 +5,7 @@ import androidx.room.PrimaryKey
 import com.example.course_todoapp.util.Constants.DATABASE_TABLE
 
 @Entity(tableName = DATABASE_TABLE)
-data class ToDoClass(
+data class ToDoTask(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
     var title: String,
