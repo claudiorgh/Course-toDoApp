@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Course-toDoApp</string>
+    <string name="add_button">Add button</string>
+    <string name="search_tasks">Search Tasks</string>
+    <string name="tasks">Tasks</string>
+    <string name="sort_tasks">Sort Tasks</string>
+    <string name="delete_all">Delete All</string>
 </resources>
